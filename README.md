@@ -1,7 +1,7 @@
 ## Hello! I'm Beatriz Sobreira!
 ### Welcome to my GitHub profile!
 
-I'm a System Analysis and Development student and currently an intern at NexTI (Núcleo de Extensão em Tecnologia da Informação) at UniFAP (Centro Universitário Paraíso), working as a Front-end developer and web designer.
+I'm a System Analysis and Development student and currently an intern at NexTI (Núcleo de Extensão em Tecnologia da Informação) at UniFAP (Centro Universitário Paraíso), working as a Front-end developer and UX/UI designer.
 
 ### I’m currently working on...
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain.svg" width="40" height="40"/>
