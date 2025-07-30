@@ -16,3 +16,9 @@ I'm a System Analysis and Development student and currently an intern at NexTI (
 <a href="https://www.linkedin.com/in/beatriz-sobreira-78b2b1b7/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="40" height="40"/></a>
 <a href="mailto:contatobeatrizsobreira@gmail.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" width="40" height="40"/></a>
 
+<div>
+<a href="https://github.com/beatriz-sobreira">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatriz-sobreira&layout=compact&langs_count=7&theme=algolia"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=beatriz-sobreira&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+</div>
+
