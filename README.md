@@ -5,7 +5,7 @@ I'm a System Analysis and Development student and currently an intern at UPA (Un
 
 
 ### Previously...
-Front-end Developer and UX/UI Designer intern at NexTI (Núcleo de Extensão em Tecnologia da Informação) at UniFAP (Centro Universitário Paraíso).
+Front-end Developer and UX/UI Designer intern/volunteer at NexTI (Núcleo de Extensão em Tecnologia da Informação) at UniFAP (Centro Universitário Paraíso).
 
 ### I’m currently working on...
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"  width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" width="40" height="40"/> 
